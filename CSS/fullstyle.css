@@ -1,0 +1,16 @@
+.tiledBackground {
+    background-image: url(Images/IMG_1175.JPG);
+    background-size: cover;
+
+}
+
+h1 {
+    text-decoration-line: underline;
+    text-decoration-color: #265301;
+    color: #265301;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+
+}
